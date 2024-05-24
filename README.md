@@ -9,7 +9,7 @@ house_price_by_LSOA.xls
 map_leeds.gpkg  
 oa_leeds.gpkg  
 
-Due to the large size of the dataset, I couldn't upload it to GitHub. Therefore, I have uploaded all the data to OneDrive. The download link is as follows:  
+Due to the size limit of the dataset, I couldn't upload it to GitHub. Therefore, I have uploaded all the data to OneDrive. The download link is as follows:  
 https://1drv.ms/u/s!AlAOIOBwskGHwXnGmkTmMhNkQ_vd?e=1CaSRy  
 
 ## Code
