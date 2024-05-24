@@ -1,4 +1,4 @@
-# GEOG5995_Final_Project
+# GEOG5990M_Final_Project
 ## Background
 The price factors influencing housing prices are diverse, encompassing transportation infrastructure, geographical elements, and the level of public safety. An essential indicator reflecting public safety is the quantity of criminal cases. In this endeavor, our project aims to investigate the relationship between housing prices and the incidence of criminal cases in the Leeds area through data visualization.
 
