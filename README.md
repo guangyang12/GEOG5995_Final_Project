@@ -15,10 +15,10 @@ https://1drv.ms/u/s!AlAOIOBwskGHwXnGmkTmMhNkQ_vd?e=1CaSRy
 ## Code
 All of the code is contained in data_visualization.ipynb, including detailed processes such as data preprocessing, data merging, and plotting. The code includes detailed comments on the process flow, and below are two graphs generated based on the aforementioned four datasets.  
 ### Non-spatial visualization  
-![Non-spatial visualization](Non-spatial visualization.png)
+![Non-spatial visualization](Non-spatial.png)
 
 ### Spatial visualization  
-![Spatial visualization](Spatial visualization.png)
+![Spatial visualization](Spatial.png)
 
 
 
