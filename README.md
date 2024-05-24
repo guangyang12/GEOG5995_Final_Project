@@ -18,7 +18,7 @@ All of the code is contained in data_visualization.ipynb, including detailed pro
 ![Non-spatial visualization](Non-spatial.png)
 
 ### Spatial visualization  
-![Spatial visualization](Spatial.png)
+![Spatial visualization](Spatial1.png)
 
 
 
